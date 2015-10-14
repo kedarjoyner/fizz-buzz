@@ -1,3 +1,4 @@
+/*
 var results = document.getElementById("results");
 
 var listItems = "";
@@ -26,6 +27,7 @@ var i;
 }
 
 results.innerHTML += listItems;
+*/
 
 
 
